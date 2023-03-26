@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    password: bike
+    username: bike
+    url: jdbc:mysql://localhost:3306/bike
+    driver-class-name: com.mysql.jdbc.Driver
+    
+   
